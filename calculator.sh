@@ -1,4 +1,9 @@
 #!/bin/bash
 
 # Addition functional
-x-1+2
+x=1+2
+
+# Substraction functional
+
+
+
